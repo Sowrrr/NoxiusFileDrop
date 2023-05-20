@@ -1,0 +1,4 @@
+{
+    "path": "", // The path of the file to copy
+    "pathtocopy": "" // The path for copy this file
+}
